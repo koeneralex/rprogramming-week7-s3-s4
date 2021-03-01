@@ -14,6 +14,7 @@
   # S4: Newer, more structured, more rigorous, multi-dispatch.
   
 ## In your GitHub, create two examples of S3 and S4.
+  #GitHub Link: (https://github.com/koeneralex/rprogramming-week7-s3-s4)
 
   library(pryr)
 
